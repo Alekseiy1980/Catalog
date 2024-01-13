@@ -1,0 +1,23 @@
+img{
+    width: 300px;
+}
+
+.menu_list{
+    list-style: none;
+}
+
+.menu_limk{
+    text-decoration:none;
+    color: cornflowerblue;
+	font-size: 16px;
+	line-height: 20px;
+
+}
+
+.conteiner_title{
+    
+⦁	    color: #222222;
+⦁	    font-size: 28px;
+⦁	    line-height: 36px;
+⦁	    font-weight: bold
+}

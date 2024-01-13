@@ -41,7 +41,7 @@
 }
 .contacts{
     display: flex;
-    justify-content:space-between
+    justify-content: center;
 }
 .contacts_list{
     list-style: none;

@@ -1,4 +1,4 @@
-.conteiner_img{
+img{
     width: 300px;
 }
 
@@ -29,27 +29,5 @@
 	font-size: 18px;
 	line-height: 30px;
 	color: #7D7987
-}
 
-.article_title{
-    color: coral;
-    font-style: normal;
-    font-weight: 700;
-    font-size: 36px;
-	line-height: 80px;
-    
-}
-.contacts{
-    display: flex;
-    justify-content:space-between
-}
-.contacts_list{
-    list-style: none;
-    display: inline-flex;
-    
-    
-}
-
-.contacts_item{
-    text-decoration:none;
 }

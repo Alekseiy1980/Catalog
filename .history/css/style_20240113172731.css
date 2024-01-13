@@ -41,11 +41,10 @@
 }
 .contacts{
     display: flex;
-    justify-content:space-between
+    justify-content: baseline;
 }
 .contacts_list{
     list-style: none;
-    display: inline-flex;
     
     
 }

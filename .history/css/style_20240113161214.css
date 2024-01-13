@@ -1,0 +1,11 @@
+img{
+    width: 300px;
+}
+
+.menu_list{
+    list-style: none;
+}
+
+.menu_item{
+    text-decoration:line-through;
+}

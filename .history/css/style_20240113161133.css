@@ -1,0 +1,11 @@
+img{
+    width: 300px;
+}
+
+.menu_list{
+    list-style: none;
+}
+
+a.menu_link{
+    text-decoration: none;
+}
